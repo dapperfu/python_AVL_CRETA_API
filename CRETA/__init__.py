@@ -14,4 +14,4 @@ class CANape(object):
         pass
 
     def init(self):
-        raise NotImplementedError("http://www.linkedin.com/in/jed-frey")
+        raise NotImplementedError("")
